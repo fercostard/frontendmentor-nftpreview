@@ -10,7 +10,7 @@ Desafio do site FrontEnd Mentor, com o objetivo que fazer um preview de uma NFT.
 ### Links
 
 - Solution URL: (https://github.com/fercostard/frontendmentor-nftpreview)
-- Live Site URL:(https://your-live-site-url.com)
+- Live Site URL:(https://fercostard.github.io/frontendmentor-nftpreview/)
 
 ### Linguagens Usadas
 
